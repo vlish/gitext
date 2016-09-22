@@ -3,4 +3,3 @@ Fix some shit.
 Add something in master branch.
 Add thing for conflict.
 Add.
-Add shit.
